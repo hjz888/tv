@@ -52,3 +52,4 @@ jobs:
           git commit *.txt -m "Add generated file"
           #git pull --rebase
           git push -f
+          
